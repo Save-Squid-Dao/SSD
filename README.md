@@ -1,4 +1,105 @@
-<h2 class="Box-title">
+<div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="README.md" data-pjax="#repo-content-pjax-container" href="/bscsquidgame/SquidGame/blob/main/README.md">README.md</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="icon256.png" data-pjax="#repo-content-pjax-container" href="/bscsquidgame/SquidGame/blob/main/icon256.png">icon256.png</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="marbles32.png" data-pjax="#repo-content-pjax-container" href="/bscsquidgame/SquidGame/blob/main/marbles32.png">marbles32.png</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+    </div>
+    <div class="Details-content--shown Box-footer d-md-none p-0">
+      <button aria-expanded="false" type="button" data-view-component="true" class="js-details-target btn-link d-block width-full px-3 py-2">  View code
+</button>    </div>
+  </div>
+
+</include-fragment>
+
+
+</div>
+
+    <readme-toc>
+
+    <div id="readme" class="Box md js-code-block-container js-code-nav-container js-tagsearch-file Box--responsive"
+        data-tagsearch-path="README.md"
+        data-tagsearch-lang="Markdown">
+
+      <div class="d-flex  js-sticky js-position-sticky top-0 border-top-0 border-bottom p-2 flex-items-center flex-justify-between color-bg-default rounded-top-2"  style="position: sticky; z-index: 30;" >
+        <div class="d-flex flex-items-center">
+            <details
+  data-target="readme-toc.trigger"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:417043056,&quot;originating_url&quot;:&quot;https://github.com/bscsquidgame/SquidGame&quot;,&quot;user_id&quot;:49696685}}"
+  data-menu-hydro-click-hmac="65c48e6b4359d00b90cab920dc98b047e112b061b7fb03f0d9f57a4b77297943"
+  class="dropdown details-reset details-overlay"
+>
+  <summary
+    class="btn btn-octicon m-0 mr-2 p-2"
+    aria-haspopup="true"
+    aria-label="Table of Contents">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
+    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+</svg>
+  </summary>
+
+
+  <details-menu class="SelectMenu" role="menu">
+    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
+
+
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
+          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:417043056,&quot;originating_url&quot;:&quot;https://github.com/bscsquidgame/SquidGame&quot;,&quot;user_id&quot;:49696685}}" data-hydro-click-hmac="dc500f4ab3d12e2ee0c89849dc6f3a4a496370619cfcf5242f3de7c0d04198d4" href="#squid">SQUID</a>
+          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:417043056,&quot;originating_url&quot;:&quot;https://github.com/bscsquidgame/SquidGame&quot;,&quot;user_id&quot;:49696685}}" data-hydro-click-hmac="dc500f4ab3d12e2ee0c89849dc6f3a4a496370619cfcf5242f3de7c0d04198d4" href="#contract-addresses">Contract Addresses</a>
+          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:417043056,&quot;originating_url&quot;:&quot;https://github.com/bscsquidgame/SquidGame&quot;,&quot;user_id&quot;:49696685}}" data-hydro-click-hmac="dc500f4ab3d12e2ee0c89849dc6f3a4a496370619cfcf5242f3de7c0d04198d4" href="#project-links-and-info">Project links and info</a>
+      </div>
+    </div>
+  </details-menu>
+</details>
+
+          <h2 class="Box-title">
             <a href="#readme" data-view-component="true" class="Link--primary">README.md</a>
           </h2>
         </div>
@@ -54,26 +155,3 @@
     </div>
 
   </readme-toc>
-
-
-</div>
-  <div data-view-component="true" class="Layout-sidebar">      
-
-      <div class="BorderGrid BorderGrid--spacious" data-pjax>
-        <div class="BorderGrid-row hide-sm hide-md">
-          <div class="BorderGrid-cell">
-            <h2 class="mb-3 h4">About</h2>
-
-    <div class="f4 my-3 color-fg-muted text-italic">
-      No description, website, or topics provided.
-    </div>
-
-
-  <h3 class="sr-only">Resources</h3>
-  <div class="mt-2">
-    <a class="Link--muted" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Repository Overview&quot;,&quot;action&quot;:&quot;click&quot;,&quot;label&quot;:&quot;location:sidebar;file:readme&quot;,&quot;originating_url&quot;:&quot;https://github.com/bscsquidgame/SquidGame&quot;,&quot;user_id&quot;:49696685}}" data-hydro-click-hmac="f86c2448212444728d2dc424757a107a262750353e0c10848a01577a91ad7acb" data-analytics-event="{&quot;category&quot;:&quot;Repository Overview&quot;,&quot;action&quot;:&quot;click&quot;,&quot;label&quot;:&quot;location:sidebar;file:readme&quot;}" href="#readme">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book mr-2">
-    <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
-</svg>
-      Readme
-</a>  </div>
