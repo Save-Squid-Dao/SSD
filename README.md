@@ -1,4 +1,4 @@
-<h1 dir="auto"><a id="user-content-squid" class="anchor" aria-hidden="true" href="#squid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>SQUID</h1>
+<h1 dir="auto"><a id="user-content-squid" class="anchor" aria-hidden="true" href="#squid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>SAVE SQUID DAO</h1>
 <p dir="auto">The Squid Game project is a crypto play to earn platform on BSC chain inspired by the Korean hit series on Netflix about a deadly tournament of children's games. SQUID is the only token can be used in Squid Game. You will need SQUID to participate into a game or get restart after you fail the game.</p>
 <p dir="auto">Marbles is a token built on BSC chain as the key for Squid Game.</p>
 <p dir="auto">Obtaining Marbles without using violence is the key to Squid Game. Marbles holders will have the right to trade SQUID freely.</p>
@@ -25,6 +25,13 @@
 </tr>
 <tr>
 <td>Marbles+WBNB Pancake Pair</td>
+<td><a href="https://bscscan.com/address/0x6eb491743df4EF9fC2bC4044FFdd494454B8199B" rel="nofollow">0x6eb491743df4EF9fC2bC4044FFdd494454B8199B</a></td>
+</tr>
+<td>SAVE SQUID DAO</td>
+<td><a href="https://bscscan.com/token/0x9531c509a24CEEc710529645fc347341FF9F15EA" rel="nofollow">0x9531c509a24CEEc710529645fc347341FF9F15EA</a></td>
+</tr>
+<tr>
+<td>SSD+WBNB Pancake Pair</td>
 <td><a href="https://bscscan.com/address/0x6eb491743df4EF9fC2bC4044FFdd494454B8199B" rel="nofollow">0x6eb491743df4EF9fC2bC4044FFdd494454B8199B</a></td>
 </tr>
 </tbody>
