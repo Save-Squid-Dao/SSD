@@ -13,11 +13,11 @@ Note:- This page is under construction. we are not from scammers but from commun
 </thead>
 <tbody>
  <td>SAVE SQUID DAO</td>
-<td><a href="https://bscscan.com/token/0x9531c509a24CEEc710529645fc347341FF9F15EA" rel="nofollow">0x9531c509a24CEEc710529645fc347341FF9F15EA</a></td>
+<td><a href="https://bscscan.com/token/0x9531c509a24CEEc710529645fc347341FF9F15EA" rel="nofollow">0x2def038e6eac3f51ef2e259af63a8116490d1ccc</a></td>
 </tr>
 <tr>
 <td>SSD+WBNB Pancake Pair</td>
-<td><a href="https://bscscan.com/address/0x6eb491743df4EF9fC2bC4044FFdd494454B8199B" rel="nofollow">0x6eb491743df4EF9fC2bC4044FFdd494454B8199B</a></td>
+<td><a href="https://bscscan.com/address/0x6eb491743df4EF9fC2bC4044FFdd494454B8199B" rel="nofollow">0x464E49aaD088cd05db74617C7106dB05C378a3E8</a></td>
 </tr>       
 <tr>
 <td>SQUID</td>
